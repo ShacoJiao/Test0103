@@ -7,7 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "TestA.h"
+#import "TestB.h"
 //! Project version number for Test0104.
 FOUNDATION_EXPORT double Test0104VersionNumber;
 
